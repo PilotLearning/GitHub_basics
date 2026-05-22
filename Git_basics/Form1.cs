@@ -24,5 +24,10 @@ namespace Git_basics
             Console.WriteLine("Changing in Github");
             Console.WriteLine("Changing in Github.Testing Fetch and Pull");
         }
+
+        public static void Test_Fn()
+        {
+            Console.WriteLine("Local Commit and Sync Test");
+        }
     }
 }
