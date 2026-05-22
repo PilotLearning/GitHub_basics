@@ -20,6 +20,7 @@ namespace Git_basics
         private void Form1_Load(object sender, EventArgs e)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Testing commit and push");
         }
     }
 }
