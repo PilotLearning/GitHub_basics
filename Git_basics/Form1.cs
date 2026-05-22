@@ -21,6 +21,7 @@ namespace Git_basics
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Testing commit and push");
+            Console.WriteLine("Changing in Github");
         }
     }
 }
