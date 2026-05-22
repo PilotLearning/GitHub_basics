@@ -29,5 +29,10 @@ namespace Git_basics
         {
             Console.WriteLine("Local Commit and Sync Test");
         }
+
+        public static void Branch_2()
+        {
+            Console.WriteLine("Branch_2 Test");
+        }
     }
 }
