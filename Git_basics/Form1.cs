@@ -39,5 +39,15 @@ namespace Git_basics
         {
             Console.WriteLine("Branch_2 Test commit and push");
         }
+        public static void Branch_2(int a,int b)
+        {
+            Console.WriteLine("Branch_2 Test push without commit");
+        }
+
+        public static void Branch_3(int a, int b)
+        {
+            Console.WriteLine("Branch_2 Test push with commit");
+        }
+
     }
 }
