@@ -56,7 +56,8 @@ namespace Git_basics
 
           public static void Branch_5(int a)
         {
-            Console.WriteLine("Branch_2 Test pullf from github without commit frm brnch 5");
+            
+             Console.WriteLine("Branch_5 test pull wihtout commit ,only psuh");
         }
 
     }
