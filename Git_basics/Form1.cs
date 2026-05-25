@@ -35,29 +35,17 @@ namespace Git_basics
             Console.WriteLine("Branch_2 Test");
         }
 
-        public static void Branch_2(int a)
+              public static void Branch_6(int a)
         {
-            Console.WriteLine("Branch_2 Test commit and push");
+            Console.WriteLine("Branch_6 Test");
         }
-        public static void Branch_2(int a,int b)
+        public static void Branch_6(int a,int b)
         {
-            Console.WriteLine("Branch_2 Test push without commit");
+            Console.WriteLine("Branch_6 Test");
         }
-
-        public static void Branch_3(int a, int b)
+        void Branch_6(int a, int b, int c)
         {
-            Console.WriteLine("Branch_2 Test push with commit");
-        }
-
-        public static void Branch_4(int a, int b)
-        {
-            Console.WriteLine("Branch_2 Test push without commit");
-        }
-
-          public static void Branch_5(int a)
-        {
-            
-             Console.WriteLine("Branch_5 test pull wihtout commit ,only psuh");
+            Console.WriteLine("Branch_6 Test");
         }
 
     }
